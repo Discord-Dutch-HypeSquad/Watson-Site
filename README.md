@@ -1,5 +1,10 @@
 # Watson-Site
 
+## Setting up the project
+ - Get the latest version of [NodeJs](https://nodejs.org/en/)
+ - Navigate to the site directory in your terminal
+ - Run ``npm install``
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
