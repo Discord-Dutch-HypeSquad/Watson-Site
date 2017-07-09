@@ -1,6 +1,5 @@
 # Watson-Site
 
-
 ## Setting up the project
  - Get the latest version of [NodeJs](https://nodejs.org/en/)
  - Navigate to the site directory in your terminal
