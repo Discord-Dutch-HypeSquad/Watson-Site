@@ -4,6 +4,7 @@
  - Get the latest version of [NodeJs](https://nodejs.org/en/)
  - Navigate to the site directory in your terminal
  - Run ``npm install``
+ - Run `npm install -g @angular/cli`
 
 ## Development server
 
